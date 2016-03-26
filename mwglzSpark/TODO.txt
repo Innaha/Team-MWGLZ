@@ -1,0 +1,7 @@
+*Bytte ut movement-skisse med nytt script.
+*Få animasjoner+monster. Deretter lage script til monster.
+*Referanser på Awake(), ikke get under update()
+*Bytte ut IENumerators med Invokerepeating
+*States
+*Menu screen + "Longest Survival" (Playersprefs?)
+*RYDDE

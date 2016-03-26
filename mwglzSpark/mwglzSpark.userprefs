@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\imageAnimator.cs">
+    <Files>
+      <File FileName="Assets\playerControl.cs" Line="52" Column="20" />
+      <File FileName="Assets\systemControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\beaconControl.cs" Line="45" Column="19" />
+      <File FileName="Assets\imageAnimator.cs" Line="14" Column="73" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
